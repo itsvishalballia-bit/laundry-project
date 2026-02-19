@@ -1,2 +1,2 @@
-# laundry-project
+# index.html
 Laundry Wallah Website using HTML
